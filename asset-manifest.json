@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SRH-Pet-Appointment-App/static/css/main.881da04a.chunk.css",
+    "main.js": "/SRH-Pet-Appointment-App/static/js/main.65673688.chunk.js",
+    "main.js.map": "/SRH-Pet-Appointment-App/static/js/main.65673688.chunk.js.map",
+    "runtime-main.js": "/SRH-Pet-Appointment-App/static/js/runtime-main.bcd84840.js",
+    "runtime-main.js.map": "/SRH-Pet-Appointment-App/static/js/runtime-main.bcd84840.js.map",
+    "static/css/2.1f208231.chunk.css": "/SRH-Pet-Appointment-App/static/css/2.1f208231.chunk.css",
+    "static/js/2.0ef74a9d.chunk.js": "/SRH-Pet-Appointment-App/static/js/2.0ef74a9d.chunk.js",
+    "static/js/2.0ef74a9d.chunk.js.map": "/SRH-Pet-Appointment-App/static/js/2.0ef74a9d.chunk.js.map",
+    "static/js/3.2ab054c6.chunk.js": "/SRH-Pet-Appointment-App/static/js/3.2ab054c6.chunk.js",
+    "static/js/3.2ab054c6.chunk.js.map": "/SRH-Pet-Appointment-App/static/js/3.2ab054c6.chunk.js.map",
+    "index.html": "/SRH-Pet-Appointment-App/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/SRH-Pet-Appointment-App/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.881da04a.chunk.css.map": "/SRH-Pet-Appointment-App/static/css/main.881da04a.chunk.css.map",
+    "static/js/2.0ef74a9d.chunk.js.LICENSE.txt": "/SRH-Pet-Appointment-App/static/js/2.0ef74a9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd84840.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.0ef74a9d.chunk.js",
+    "static/css/main.881da04a.chunk.css",
+    "static/js/main.65673688.chunk.js"
+  ]
+}
