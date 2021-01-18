@@ -1,6 +1,6 @@
 # Pet Veterinary appointment Application
 
-A web application for the veterinary clinics to make appointments for the pets.
+A web application for the veterinary clinics to make appointments for the pets. The functioning of the website consists of adding the appointments, deleting the appointments and choosing date and time for the appointment.
 
 ## Getting Started with Create React App
 
@@ -43,27 +43,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Authors
 
 * **Aayush Jain** - *Initial work* 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
